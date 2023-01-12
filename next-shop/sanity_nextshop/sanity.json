@@ -1,0 +1,10 @@
+{
+  "root": true,
+  "api": {
+    "projectId": "14waidjz",
+    "dataset": "production"
+  },
+  "project": {
+    "name": "nextshop"
+  }
+}
